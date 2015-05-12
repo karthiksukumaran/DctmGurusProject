@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/Jars/dfc.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/activation.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/All-MB.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/aspectjrt.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/bpmutil.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/castor-1.1-xml.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/certjFIPS.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/collaboration.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/commons-jxpath-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/configservice-api.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/configservice-impl.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/DmcRecords.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/dms-client-api.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/jaxb-api.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/jaxb-impl.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/jcifs-krb5-1.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/jsafeFIPS.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/jsr173_api.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/krbutil.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/log4j.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/messageArchive.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/messageService.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/workflow.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/xforms.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/XformsCommon.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/xtrim-api.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/xtrim-server.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
